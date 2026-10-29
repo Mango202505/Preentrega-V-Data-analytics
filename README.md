@@ -15,8 +15,3 @@ El archivo `modulo_3/ventas_tech_db.sql` crea la base `Ventas_Tech_DB`, sus cuat
 
 El script esta separado en DROP, CREATE, INSERT y VALIDACION. Cada producto referencia una categoria y cada venta referencia un cliente y un producto. Los precios usan `DECIMAL(10,2)` y las fechas usan `DATE`.
 
-Esta entrega implementa el modelo TechStore indicado para el Modulo 3, no las tablas adicionales del modelo RetailPro de la preentrega anterior.
-
-## Entrega
-
-Subir el contenido de esta carpeta a un repositorio publico de GitHub, manteniendo el script dentro de `modulo_3`. En la plataforma se pega la URL del repositorio, no el enlace directo al archivo. No se entrega un PDF ni un archivo de base de datos.
